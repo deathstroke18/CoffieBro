@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647627334969",
+    "project_id": "coffier-3fbe2",
+    "storage_bucket": "coffier-3fbe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647627334969:android:cb3fa51257b4ba3a47b4e8",
+        "android_client_info": {
+          "package_name": "arjun.co.coffiebro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647627334969-ae24qlh06g0htv7km5rsnnr61l2ffma9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdlk88UrQ5JQJtdp5aezTU05xl-Avukfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647627334969-ae24qlh06g0htv7km5rsnnr61l2ffma9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
